@@ -1,5 +1,5 @@
 # Security
-My Digital Encryption Public Keys
+My digital encryption public keys
 
 This repository contains my public encryption keys.
 
